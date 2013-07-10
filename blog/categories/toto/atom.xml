@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: toto | My Octopress Blog]]></title>
+  <title><![CDATA[Category: toto | Laboratoire d'Aix-périmentation et de Bidouille]]></title>
   <link href="http://nedseb.github.io/blog/categories/toto/atom.xml" rel="self"/>
   <link href="http://nedseb.github.io/"/>
-  <updated>2013-07-10T22:51:14+02:00</updated>
+  <updated>2013-07-10T23:15:04+02:00</updated>
   <id>http://nedseb.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[L.A.B.]]></name>
+    <email><![CDATA[contact@labaixbidouille.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
