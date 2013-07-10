@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://nedseb.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: toto | My Octopress Blog]]></title>
+  <link href="http://nedseb.github.io/blog/categories/toto/atom.xml" rel="self"/>
   <link href="http://nedseb.github.io/"/>
   <updated>2013-07-10T22:51:14+02:00</updated>
   <id>http://nedseb.github.io/</id>
